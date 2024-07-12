@@ -9,7 +9,7 @@ I'm a dedicated Full Stack Engineer specializing in backend development, microse
 * 🌍  I'm based in Fiji Islands, (REMOTE)
 * 🖥️  See my portfolio at [Personal Portfolio 2024](http://reginald-chand.vercel.app/)
 * ✉️  You can contact me at [reginald@outlook.com](mailto:reginald@outlook.com)
-* 🚀  I'm currently working on [Health Management System Backend](http://github.com/reginald-chand/health-management-system-backend)
+* 🚀  I'm currently working on [Health Management System](http://github.com/reginald-chand/health-management-system)
 * 🧠  I'm learning Go Programming Language
 * 🤝  I'm open to collaborating on 😁 Anything?
 * ⚡  I love Coding, Music & Games
